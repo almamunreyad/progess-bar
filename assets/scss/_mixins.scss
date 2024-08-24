@@ -1,0 +1,11 @@
+@mixin bg-reset {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@mixin flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
